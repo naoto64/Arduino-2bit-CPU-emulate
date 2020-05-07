@@ -54,7 +54,7 @@ A0, A1, A2, A3, A4, A5, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4
 ---&nbsp;OUT&nbsp;---
 
 &nbsp;&nbsp;MSB&nbsp;LSB  
-&nbsp;&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2
+&nbsp;&nbsp;&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2
 
 ## License
 
