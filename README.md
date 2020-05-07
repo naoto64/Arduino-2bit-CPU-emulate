@@ -7,8 +7,6 @@ This program is a pseudo emulation of a 2bit CPU with Arduino. ROM is reproduced
 
 ## Program
 
-![RainSense](https://github.com/naoto64/Arduino-RainSense/blob/master/RainSense.png)
-
 ````cpp:example.ino
 byte romPin[16] = {A0, A1, A2, A3, A4, A5, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4};
 
