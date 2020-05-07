@@ -5,6 +5,8 @@ Arduino-2bit-CPU-emulate
 
 This program is a pseudo emulation of a 2bit CPU with Arduino. ROM is reproduced with 16 digital input pins. Data is output on two output pins.
 
+[![2bit CPU](https://img.youtube.com/vi/Sxgu67vHjyk/0.jpg)](https://www.youtube.com/watch?v=Sxgu67vHjyk)
+
 ## Program
 
 ````cpp:example.ino
