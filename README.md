@@ -59,17 +59,17 @@ A0, A1, A2, A3, A4, A5, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4
 
 ### OUT
 
-MSB, LSB
+MSB, LSB  
 3, 2
 
 ### Example
 
-program01 count
-MSB <--&nbsp;&nbsp;&nbsp;--> LSB
+program01 count  
+MSB <--&nbsp;&nbsp;&nbsp;--> LSB  
 0000 0100 1001 1101
 
-program02 blink
-MSB <--&nbsp;&nbsp;&nbsp;--> LSB
+program02 blink  
+MSB <--&nbsp;&nbsp;&nbsp;--> LSB  
 0001 0100 0010 0100
 
 ## License
