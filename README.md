@@ -46,14 +46,14 @@ void loop() {
 
 ### Command
 
-00: Write immediate data to register
-01: Output register data to output port
-10: Add immediate data to register data
+00: Write immediate data to register  
+01: Output register data to output port  
+10: Add immediate data to register data  
 11: Jump to the address of immediate data
 
 ### ROM
 
-MSB <--&nbsp;&nbsp;&nbsp;--> LSB
+MSB <--&nbsp;&nbsp;&nbsp;--> LSB  
 A0, A1, A2, A3, A4, A5, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4
 
 
